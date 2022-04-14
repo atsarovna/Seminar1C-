@@ -4,6 +4,7 @@ int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число b :");
 int numberB = Convert.ToInt32(Console.ReadLine());
 
+//лучше numberA * numberB - выводить в отдельную переменную 
 if(numberA * numberA == numberB)
 {
     Console.WriteLine("Да");
