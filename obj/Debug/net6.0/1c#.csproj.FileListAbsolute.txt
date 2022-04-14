@@ -1,0 +1,15 @@
+D:\разраб\семинары\1c#\bin\Debug\net6.0\1c#.exe
+D:\разраб\семинары\1c#\bin\Debug\net6.0\1c#.deps.json
+D:\разраб\семинары\1c#\bin\Debug\net6.0\1c#.runtimeconfig.json
+D:\разраб\семинары\1c#\bin\Debug\net6.0\1c#.dll
+D:\разраб\семинары\1c#\bin\Debug\net6.0\1c#.pdb
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.csproj.AssemblyReference.cache
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.AssemblyInfoInputs.cache
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.AssemblyInfo.cs
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.csproj.CoreCompileInputs.cache
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.dll
+D:\разраб\семинары\1c#\obj\Debug\net6.0\refint\1c#.dll
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.pdb
+D:\разраб\семинары\1c#\obj\Debug\net6.0\1c#.genruntimeconfig.cache
+D:\разраб\семинары\1c#\obj\Debug\net6.0\ref\1c#.dll
